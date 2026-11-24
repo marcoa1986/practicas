@@ -1,0 +1,8 @@
+{"fecha":"2026-11-23T11:19:28.088Z","selector":"ID","localizador":"By(css selector, *[id=\"user-name\"])","encontrados":1,"unico":true,"estado":"UTILIZADO","duracionMs":155}
+{"fecha":"2026-11-23T11:19:28.311Z","selector":"ID","localizador":"By(css selector, *[id=\"password\"])","encontrados":1,"unico":true,"estado":"UTILIZADO","duracionMs":25}
+{"fecha":"2026-11-23T11:19:30.434Z","selector":"ID","localizador":"By(css selector, *[id=\"login-button-incorrecto\"])","encontrados":0,"unico":false,"estado":"RECHAZADO","motivo":"No encontrado","duracionMs":2007}
+{"fecha":"2026-11-23T11:19:30.469Z","selector":"data-test","localizador":"By(css selector, [data-test=\"login-button\"])","encontrados":1,"unico":true,"estado":"UTILIZADO","duracionMs":33}
+{"fecha":"2026-11-23T11:24:44.201Z","selector":"ID","localizador":"By(css selector, *[id=\"user-name\"])","encontrados":1,"unico":true,"estado":"UTILIZADO","duracionMs":69}
+{"fecha":"2026-11-23T11:24:44.378Z","selector":"ID","localizador":"By(css selector, *[id=\"password\"])","encontrados":1,"unico":true,"estado":"UTILIZADO","duracionMs":32}
+{"fecha":"2026-11-23T11:24:46.647Z","selector":"ID","localizador":"By(css selector, *[id=\"login-button-incorrecto\"])","encontrados":0,"unico":false,"estado":"RECHAZADO","motivo":"No encontrado","duracionMs":2209}
+{"fecha":"2026-11-23T11:24:46.702Z","selector":"data-test","localizador":"By(css selector, [data-test=\"login-button\"])","encontrados":1,"unico":true,"estado":"UTILIZADO","duracionMs":54}
