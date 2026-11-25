@@ -1,0 +1,18 @@
+linea 18 columna 5 -Aviso:atributo "role" desconocido
+linea 35 columna 32 -Aviso:elemento vacio eliminado <div>
+linea 179 columna 97 -Aviso:atributo "aria-hidden" desconocido
+linea 179 columna 137 -Aviso:elemento vacio eliminado <i>
+linea 182 columna 94 -Aviso:atributo "aria-hidden" desconocido
+linea 182 columna 133 -Aviso:elemento vacio eliminado <i>
+linea 336 columna 25 -Aviso:atributo "data-social-url" desconocido
+linea 336 columna 114 -Aviso:atributo "aria-hidden" desconocido
+linea 336 columna 155 -Aviso:elemento vacio eliminado <i>
+linea 339 columna 25 -Aviso:atributo "data-social-url" desconocido
+linea 339 columna 109 -Aviso:atributo "aria-hidden" desconocido
+linea 339 columna 149 -Aviso:elemento vacio eliminado <i>
+linea 358 columna 9 -Aviso:<script> falta atributo "type"
+InputStream: Doctype dado es "about:legacy-compat"
+InputStream: Contenido de documento parece HTML 4.01 Transitional
+hallados 13 avisos, no errors!
+Se debería usar el atributo 'summary' de una tabla para describir su estructura. Es de gran ayuda para gente usando navegadores no visuales. Los atributos 'scope' y 'headers' de las celdas de las tablas son utiles para especificar que cabeceras aplican a cada celda, permitiendo a navegadores no visuales el proporcionar un contecto significativo a cada celda.
+Para más recomendaciones sobre como hacer las páginas accesibles visite "http://www.w3.org/WAI/GL". Tambien le puede interesar visitar "http://www.cast.org/bobby/", un servicio gratuito para comprobar la accesibilidad de sitios web.
